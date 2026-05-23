@@ -1,0 +1,2 @@
+# xdbot-gd-macros
+.
